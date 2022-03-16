@@ -7,13 +7,13 @@ szabodzsi@gmail.com
 Gábor is a CTO, lead software engineer with 14 years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, Spring Framework ad cloud technologies.  
 
 ## Work experience
-**2020 – present**
-**CTO**
-**Haris Digital Engineering Kft.**
+** 2020 – present **
+** CTO **
+** Haris Digital Engineering Kft. **
 * Develop machine digitalization solution
 * Lead dev team
 * Responsible for architecture and product development of the following fields:
-  * Wireless IIoT sensors
+  * Wireless IIoT sensors and IoT gateway application
   * AI solutions to process IIoT data
   * Dashboard and Analytics application
   * Build and maintain infrastructure running in Azure

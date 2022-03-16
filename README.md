@@ -4,7 +4,7 @@ szabodzsi@gmail.com
 +36 30 325 44 81  
 
 ## Profile  
-Gábor is a lead software engineer with 14 years experience in different fields of software development, specialized in Java technologies with major experience of Spring Framework and Amazon Web Services.  
+Gábor is a CTO, lead software engineer with 14 years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, Spring Framework ad cloud technologies.  
 
 ## Work experience
 **2020 – present**

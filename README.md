@@ -9,6 +9,7 @@ Gábor is a lead software engineer with 14 years experience in different fields 
 ## Work experience
 **2020 – present**
 **CTO**
+**Haris Digital Engineering Kft.**
 * Develop machine digitalization solution
 * Lead dev team
 * Responsible for architecture and product development of the following fields:
@@ -17,7 +18,6 @@ Gábor is a lead software engineer with 14 years experience in different fields 
   * Dashboard and Analytics application
   * Build and maintain infrastructure running in Azure
 
-**Haris Digital Engineering Kft.**
 **2016 – 2020**  
 **team architect, lead developer**  
 **evosoft Hungary Kft.**  

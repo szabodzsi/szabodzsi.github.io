@@ -16,6 +16,7 @@ Gábor is a lead software engineer with 14 years experience in different fields 
   * AI solutions to process IIoT data
   * Dashboard and Analytics application
   * Build and maintain infrastructure running in Azure
+
 **Haris Digital Engineering Kft.**
 **2016 – 2020**  
 **team architect, lead developer**  

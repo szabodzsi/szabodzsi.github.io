@@ -6,8 +6,18 @@ szabodzsi@gmail.com
 ## Profile  
 Gábor is a lead software engineer with 14 years experience in different fields of software development, specialized in Java technologies with major experience of Spring Framework and Amazon Web Services.  
 
-## Work experience  
-**2016 – present**  
+## Work experience
+**2020 – present**
+**CTO**
+* Develop machine digitalization solution
+* Lead dev team
+* Responsible for architecture and product development of the following fields:
+  * Wireless IIoT sensors
+  * AI solutions to process IIoT data
+  * Dashboard and Analytics application
+  * Build and maintain infrastructure running in Azure
+**Haris Digital Engineering Kft.**
+**2016 – 2020**  
 **team architect, lead developer**  
 **evosoft Hungary Kft.**  
 * Develop core platform of mindsphere.io, the IoT ecosystem of Siemens
@@ -66,7 +76,8 @@ junit, testng, mockito, wiremock, cucumber, gherkin, jmeter
 log4j, slf4j, kibana, grafana, sleuth  
 microservice architecture, REST, web services, jsp, servlets, ajax  
 IntelliJ, Eclipse, gradle, maven, git, cvs, svn, tfs, jira, confluence  
-hibernate, JPA, redis, postgresql, mongodb, h2, nosql, mssql, mysql, postgresql, rabbitmq  
+hibernate, JPA, redis, postgresql, mongodb, h2, nosql, mssql, mysql, postgresql, rabbitmq, mqtt, influxdb
 AWS: IaaS, PaaS; VPC, IAM, EC2, ALB, ECS, RDS, ElastiCache, SNS, SQS, S3, CW, lambda ...  
-microservice architecture, CI/CD, docker, terraform, jenkins, gitlab, cloudfoundry  
+microservice architecture, CI/CD, docker, terraform, jenkins, gitlab, cloudfoundry, kubernetes
+Azure Cloud, Azure Pipelines
 tomcat, ant, maven, gradle, Lucene, sonarqube  

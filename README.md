@@ -9,7 +9,7 @@ Gábor is a CTO, lead software engineer with 14 years experience in different fi
 ## Work experience
 **2022.04 – present**  
 **lead developer**  
-**Freelancer at supercharge.io**
+**freelancer at supercharge.io**
 * Responsible for the development of a serverless backend for a web and mobile application
 * Used technologies: GCP, Cloud Functions, Kotlin, Micronaut, Firebase, Firestore
 

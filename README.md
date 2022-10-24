@@ -7,6 +7,12 @@ szabodzsi@gmail.com
 Gábor is a CTO, lead software engineer with 14 years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, Spring Framework ad cloud technologies.  
 
 ## Work experience
+**2022.04 – present**  
+**lead developer**  
+**Freelancer at supercharge.io**
+* Responsible for the development of a serverless backend for a web and mobile application
+* Used technologies: GCP, Cloud Functions, Kotlin, Micronaut, Firebase, Firestore
+
 **2020 – present**  
 **CTO**  
 **Haris Digital Engineering Kft.**  
@@ -70,6 +76,7 @@ Gábor is a CTO, lead software engineer with 14 years experience in different fi
 * Problem solver
 * Team player
 * Used technologies:  
+kotlin, micronaut, gcp, google cloud function, firebase, firestore
 java, aop, json, websocket, javascript, angular, jquery, node.js, html, css, sql, xml, xslt  
 lua, kong, nginx, openresty, busted  
 spring, spring-boot, spring-cloud, spring-security, oauth2, jwt, netflix.zuul, eureka, hystrix, ehcache, sleuth, jedis, lettuce  

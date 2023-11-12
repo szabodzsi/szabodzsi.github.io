@@ -4,10 +4,18 @@ szabodzsi@gmail.com
 +36 30 325 44 81  
 
 ## Profile  
-Gábor is a CTO, lead software engineer with 14 years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, Spring Framework ad cloud technologies.  
+Gábor is senior software engineer with 16  years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, 
+Spring Framework and cloud technologies.  
 
 ## Work experience
-**2022.04 – present**  
+**2023.01 - present**
+**lead software engineer**
+**craftworks GmbH**
+* Technical lead of development team *
+* Develop mlops platform's multiple sw components *
+* Consult, create architecture design and implement mlops customer project **
+
+**2022.04 – 2022.12**  
 **lead developer**  
 **freelancer at supercharge.io**
 * Responsible for the development of a serverless backend for a web and mobile application

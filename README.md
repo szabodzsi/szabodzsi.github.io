@@ -8,8 +8,8 @@ Gábor is senior software engineer with 16  years experience in different fields
 Spring Framework and cloud technologies.  
 
 ## Work experience
-**2023.01 - present**
-**lead software engineer**
+**2023.01 - present**  
+**lead software engineer**  
 **craftworks GmbH**
 * Technical lead of development team
 * Develop mlops platform's multiple sw components

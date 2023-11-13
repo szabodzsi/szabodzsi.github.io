@@ -11,12 +11,15 @@ Spring Framework and cloud technologies.
 **2023.01 - present**
 **lead software engineer**
 **craftworks GmbH**
-* Technical lead of development team *
-* Develop mlops platform's multiple sw components *
-* Consult, create architecture design and implement mlops customer project **
+* Technical lead of development team
+* Develop mlops platform's multiple sw components
+  * spring boot angular mlops application with ability to deploy and monitor machine learning models
+  * building ml container images dinamically and deploy them to docker, k8s or azure iot edge environments
+* Consult, create architecture design and implement mlops customer project
+  * build fully automated mlops pipeline in azure with opentelemetry monitoring
 
 **2022.04 – 2022.12**  
-**lead developer**  
+**lead developer**
 **freelancer at supercharge.io**
 * Responsible for the development of a serverless backend for a web and mobile application
 * Used technologies: GCP, Cloud Functions, Kotlin, Micronaut, Firebase, Firestore
@@ -83,7 +86,10 @@ Spring Framework and cloud technologies.
 * Eager to learn new technologies
 * Problem solver
 * Team player
-* Used technologies:  
+* Used technologies:
+spring boot 3, angular, keycloak, azure iot hub, azure iot edge, azure sdk, 
+swagger, lombok, github, mosquitto, docker-java, sendgrid, stripe, flyway, prometheus  
+python, conda, mlflow, azure devops, acr, opentelemetry, aks
 kotlin, micronaut, gcp, google cloud function, firebase, firestore
 java, aop, json, websocket, javascript, angular, jquery, node.js, html, css, sql, xml, xslt  
 lua, kong, nginx, openresty, busted  

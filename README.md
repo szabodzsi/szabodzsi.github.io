@@ -19,7 +19,7 @@ Spring Framework and cloud technologies.
   * build fully automated mlops pipeline in azure with opentelemetry monitoring
 
 **2022.04 – 2022.12**  
-**lead developer**
+**lead developer**  
 **freelancer at supercharge.io**
 * Responsible for the development of a serverless backend for a web and mobile application
 * Used technologies: GCP, Cloud Functions, Kotlin, Micronaut, Firebase, Firestore

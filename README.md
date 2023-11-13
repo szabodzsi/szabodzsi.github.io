@@ -13,10 +13,10 @@ Spring Framework and cloud technologies.
 **craftworks GmbH**
 * Technical lead of development team
 * Develop mlops platform's multiple sw components
-  * spring boot angular mlops application with ability to deploy and monitor machine learning models
-  * building ml container images dinamically and deploy them to docker, k8s or azure iot edge environments
+  * Spring Boot - angular mlops application with ability to deploy and monitor machine learning models
+  * Build ml container images dinamically and deploy them to docker, k8s or azure iot edge environments
 * Consult, create architecture design and implement mlops customer project
-  * build fully automated mlops pipeline in azure with opentelemetry monitoring
+  * Build fully automated mlops pipeline in azure with opentelemetry monitoring
 
 **2022.04 – 2022.12**  
 **lead developer**  
@@ -28,7 +28,7 @@ Spring Framework and cloud technologies.
 **CTO**  
 **Haris Digital Engineering Kft.**  
 * Develop machine digitalization solution
-* Lead dev team
+* Build and lead developer team
 * Responsible for architecture and product development of the following fields:
   * Wireless IIoT sensors and IoT gateway application
   * AI solutions to process IIoT data

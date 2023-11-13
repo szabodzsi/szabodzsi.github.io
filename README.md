@@ -86,12 +86,12 @@ Spring Framework and cloud technologies.
 * Eager to learn new technologies
 * Problem solver
 * Team player
-* Used technologies:
-spring boot 3, angular, keycloak, azure iot hub, azure iot edge, azure sdk, 
+* Used technologies:  
+spring boot 3, angular, keycloak, Azure IoT Hub, Azure IoT Edge, Azure sdk, 
 swagger, lombok, github, mosquitto, docker-java, sendgrid, stripe, flyway, prometheus  
 python, conda, mlflow, azure devops, acr, opentelemetry, aks
 kotlin, micronaut, gcp, google cloud function, firebase, firestore
-java, aop, json, websocket, javascript, angular, jquery, node.js, html, css, sql, xml, xslt  
+java, aop, json, websocket, javascript, jquery, node.js, html, css, sql, xml, xslt  
 lua, kong, nginx, openresty, busted  
 spring, spring-boot, spring-cloud, spring-security, oauth2, jwt, netflix.zuul, eureka, hystrix, ehcache, sleuth, jedis, lettuce  
 junit, testng, mockito, wiremock, cucumber, gherkin, jmeter  

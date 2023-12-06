@@ -24,7 +24,7 @@ Spring Framework and cloud technologies.
 * Responsible for the development of a serverless backend for a web and mobile application
 * Used technologies: GCP, Cloud Functions, Kotlin, Micronaut, Firebase, Firestore
 
-**2020 – present**  
+**2020 – 2022.08**  
 **CTO**  
 **Haris Digital Engineering Kft.**  
 * Develop machine digitalization solution

@@ -8,7 +8,13 @@ Gábor is senior software engineer with 16  years experience in different fields
 Spring Framework and cloud technologies.  
 
 ## Work experience
-**2023.01 - present**  
+**2024.01 - present**  
+**lead software engineer**  
+**freelancer at United Consult Zrt.**
+* Technical lead of development team
+* Participating in bank core system modernization project
+
+**2023.01 - 2024.01**  
 **lead software engineer**  
 **craftworks GmbH**
 * Technical lead of development team

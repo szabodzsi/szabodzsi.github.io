@@ -13,6 +13,11 @@ Spring Framework and cloud technologies.
 **freelancer at United Consult Zrt.**
 * Technical lead of development team
 * Participating in bank core system modernization project
+  * Design and develop multiple spring boot, angular applications
+  * Integrate with KHR Service (credit information database operated by Hungarian banks and credit institutions)
+  * Integrate with legacy core system on Informix db
+  * Reverse engineer legacy software components
+  * Write design and architecture documentations
 
 **2023.01 - 2024.01**  
 **lead software engineer**  
@@ -106,6 +111,6 @@ microservice architecture, REST, web services, jsp, servlets, ajax
 IntelliJ, Eclipse, gradle, maven, git, cvs, svn, tfs, jira, confluence  
 hibernate, JPA, redis, postgresql, mongodb, h2, nosql, mssql, mysql, postgresql, rabbitmq, mqtt, influxdb
 AWS: IaaS, PaaS; VPC, IAM, EC2, ALB, ECS, RDS, ElastiCache, SNS, SQS, S3, CW, lambda ...  
-microservice architecture, CI/CD, docker, terraform, jenkins, gitlab, cloudfoundry, kubernetes
+microservice architecture, CI/CD, docker, terraform, jenkins, gitlab, cloudfoundry, kubernetes, rancher
 Azure Cloud, Azure Pipelines
 tomcat, ant, maven, gradle, Lucene, sonarqube  

@@ -8,43 +8,71 @@ Gábor is senior software engineer with 16  years experience in different fields
 Spring Framework and cloud technologies, recently transferring to fintech. 
 
 ## Work experience
-**2024.01 - present**  
-**lead software engineer**  
+**2024.01 - present**
+**lead software engineer**
 **freelancer at United Consult Zrt.**
 * Technical lead of development team
 * Participating in bank core system modernization project
   * Design and develop multiple spring boot, angular applications
   * Integrate with KHR Service (credit information database operated by Hungarian banks and credit institutions)
   * Integrate the newly created microservices into the legacy thick client core system on Informix db
+    * rest api integrations
+    * ui/browser integrations 
   * Reverse engineer legacy software components
   * Write design and architecture documentations
 * Technologies:
-  * Java/Spring Boot backend microservice application development 65%
+  * Java/Spring Boot 3 backend microservice application development 65%
   * Angular 5%
   * Java Swing legacy application development 30%
 * Responsibilities:
-  * create high level and low level design and architectural documentation of software components 20%
-  * support solution architect and business analyst in finding optimal solutions to customer needs 10%
-  * code review 10%
-  * troubleshooting 10%
-  * develop backend applications 20%
-  * develop in legacy core system 30%
+  * Create high level and low level design, architectural documentation and rest api definition 20%
+  * Support solution architect and business analyst in finding optimal solutions to customer needs 10%
+  * Code review 10%
+  * Support of infrastructure, going live process, troubleshoot, bugfix 10%
+  * Develop backend applications 25%
+  * Develop legacy core system 25%
 
 **2023.01 - 2024.01**  
 **lead software engineer**  
 **craftworks GmbH**
 * Technical lead of development team
 * Develop mlops platform's multiple sw components
-  * Spring Boot - angular mlops application with ability to deploy and monitor machine learning models
+  * Spring Boot - Angular mlops application with ability to deploy and monitor machine learning models
   * Build ml container images dinamically and deploy them to docker, k8s or azure iot edge environments
 * Consult, create architecture design and implement mlops customer project
   * Build fully automated mlops pipeline in azure with opentelemetry monitoring
+* Technologies:
+  * Java/Spring Boot backend microservice application development 55%
+  * Integrate Spring Boot application with Azure IoT Hub and other parts of the Azure ecosystem 20%
+  * Angular application developmen 5%
+  * Python - standardization of machine learning models 10%
+  * Azure Pipelines 10%
+* Responsibilities:
+  * Create architectural documentations 20%
+  * Develop MVPs for customer 20%
+  * Develop Spring Boot backend applications 25%
+  * Spring Boot 3 upgrade 5%
+  * Develop Angular frontend application 5%
+  * Develop Integration with Azure IoT 20%
+  * Develop machine learning model standardization, integration with opentelemetry 5%
 
 **2022.04 – 2022.12**  
 **lead developer**  
 **freelancer at supercharge.io**
-* Responsible for the development of a serverless backend for a web and mobile application
-* Used technologies: GCP, Cloud Functions, Kotlin, Micronaut, Firebase, Firestore
+* Responsible for the development of a serverless backend for a web and mobile application of a north american home insurance company's product
+* Technologies:
+  * GCP
+  * Cloud Functions 10%
+  * Kotlin 50%
+  * Micronaut 10%
+  * Firebase 10%
+  * Firestore 10%
+  * stripe.com integration 20%
+* Responisbilities
+  * Design the application rest apis and integration methods together with the team and the solution architect 10% 
+  * Develop backend applications 70%
+  * Integrate stripe.com payment into the application 20%
+  * Code review 10%
 
 **2020 – 2022.08**  
 **CTO**  

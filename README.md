@@ -22,6 +22,8 @@ Spring Framework and cloud technologies, recently transferring to fintech.
   * Write design and architecture documentations
 * Technologies:
   * Java/Spring Boot 3 backend microservice application development 65%
+    * apache mina sshd
+    * keycloak, jwt, Spring Security
   * Angular 5%
   * Java Swing legacy application development 30%
 * Responsibilities:

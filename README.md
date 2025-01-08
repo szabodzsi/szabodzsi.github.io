@@ -5,7 +5,7 @@ szabodzsi@gmail.com
 
 ## Profile  
 Gábor is senior software engineer with 16  years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, 
-Spring Framework and cloud technologies.  
+Spring Framework and cloud technologies, recently transferring to fintech. 
 
 ## Work experience
 **2024.01 - present**  
@@ -15,9 +15,20 @@ Spring Framework and cloud technologies.
 * Participating in bank core system modernization project
   * Design and develop multiple spring boot, angular applications
   * Integrate with KHR Service (credit information database operated by Hungarian banks and credit institutions)
-  * Integrate with legacy core system on Informix db
+  * Integrate the newly created microservices into the legacy thick client core system on Informix db
   * Reverse engineer legacy software components
   * Write design and architecture documentations
+* Technologies:
+  * Java/Spring Boot backend microservice application development 65%
+  * Angular 5%
+  * Java Swing legacy application development 30%
+* Responsibilities:
+  * create high level and low level design and architectural documentation of software components 20%
+  * support solution architect and business analyst in finding optimal solutions to customer needs 10%
+  * code review 10%
+  * troubleshooting 10%
+  * develop backend applications 20%
+  * develop in legacy core system 30%
 
 **2023.01 - 2024.01**  
 **lead software engineer**  

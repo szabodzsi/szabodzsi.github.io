@@ -1,39 +1,62 @@
 ## Gábor Szabó
 ## Contact info
 szabodzsi@gmail.com  
-+36 30 325 44 81  
++36 30 325 44 81
 
 ## Profile  
-Gábor is senior software engineer with 16  years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, 
-Spring Framework and cloud technologies.  
+Gábor is senior software engineer with almost 20 years experience in different fields of software development, specialized in Java technologies with major experience of IoT solutions, Spring Framework and cloud technologies, recently transferring to fintech. 
 
-## Work experience
+## Work experience  
 **2024.01 - present**  
 **lead software engineer**  
-**freelancer at United Consult Zrt.**
+**freelancer at United Consult Zrt.**  
 * Technical lead of development team
 * Participating in bank core system modernization project
   * Design and develop multiple spring boot, angular applications
   * Integrate with KHR Service (credit information database operated by Hungarian banks and credit institutions)
-  * Integrate with legacy core system on Informix db
+  * Integrate the newly created microservices into the legacy thick client core system on Informix db
+    * rest api integrations
+    * ui/browser integrations 
   * Reverse engineer legacy software components
-  * Write design and architecture documentations
+  * Create high level and low level design, architectural documentation and rest api definition
+* Technologies:
+  * Java/Spring Boot 3 backend microservice application development
+    * apache mina sshd
+    * keycloak, jwt, Spring Security
 
 **2023.01 - 2024.01**  
 **lead software engineer**  
 **craftworks GmbH**
 * Technical lead of development team
 * Develop mlops platform's multiple sw components
-  * Spring Boot - angular mlops application with ability to deploy and monitor machine learning models
-  * Build ml container images dinamically and deploy them to docker, k8s or azure iot edge environments
+  * Spring Boot - Angular mlops application with ability to deploy and monitor machine learning models
+  * Build ml container images dinamically and deploy them to docker, k8s and azure iot edge environments
 * Consult, create architecture design and implement mlops customer project
   * Build fully automated mlops pipeline in azure with opentelemetry monitoring
+* Develop machine learning model standardization, integration with opentelemetry
+* Technologies:
+  * Java/Spring Boot backend microservice application development
+  * Integrate Spring Boot application with Azure IoT Hub and other parts of the Azure ecosystem
+  * Angular application development
+  * Python - standardization of machine learning models
+  * Azure Pipelines
 
 **2022.04 – 2022.12**  
 **lead developer**  
 **freelancer at supercharge.io**
-* Responsible for the development of a serverless backend for a web and mobile application
-* Used technologies: GCP, Cloud Functions, Kotlin, Micronaut, Firebase, Firestore
+* Responsible for the development of a serverless backend for a web and mobile application of a north american home insurance company's product
+* Technologies:
+  * GCP
+  * Cloud Functions
+  * Kotlin
+  * Micronaut
+  * Firebase
+  * Firestore
+  * stripe.com integration
+* Responisbilities
+  * Design the application rest apis and integration methods
+  * Develop backend applications
+  * Integrate stripe.com payment into the application
 
 **2020 – 2022.08**  
 **CTO**  
